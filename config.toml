@@ -1,0 +1,4 @@
+baseURL = 'https://aqom.cl/'
+languageCode = 'es-cl'
+title = 'AQOM - Air Aquality & Odor Management'
+theme = 'ananke'
